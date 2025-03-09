@@ -1,18 +1,18 @@
-# 🚀 ApolloFlash  
+# 🚀 AppleFlash  
 **Lightning-Fast Crypto Arbitrage & Flash Loans, Powered by AI**  
 *Empowering Traders to Seize Opportunities at Celestial Speed*  
 
-[![Decentralized](https://img.shields.io/badge/Decentralized-Yes-blue)](https://apolloflash.com)
-[![AI-Powered](https://img.shields.io/badge/AI%20Powered-Yes-9cf)](https://apolloflash.com)
-[![Multi-Chain](https://img.shields.io/badge/Multi--Chain-Ethereum%20|%20Base%20|%20Solana-orange)](https://apolloflash.com)
+[![Decentralized](https://img.shields.io/badge/Decentralized-Yes-blue)](https://apppeflash.com)
+[![AI-Powered](https://img.shields.io/badge/AI%20Powered-Yes-9cf)](https://appleflash.com)
+[![Multi-Chain](https://img.shields.io/badge/Multi--Chain-Ethereum%20|%20Base%20|%20Solana-orange)](https://appleflash.com)
 
-![ApolloFlash Logo](https://via.placeholder.com/1500x500.png?text=ApolloFlash+Logo+-+Celestial+Sun+%26+Blockchain+Rays)  
+![AppleFlash Logo](https://via.placeholder.com/1500x500.png?text=AppleFlash+Logo+-+Celestial+Sun+%26+Blockchain+Rays)  
 *Logo: A fusion of celestial guidance and blockchain innovation.*
 
 ---
 
-## 🌟 **Why ApolloFlash?**  
-ApolloFlash is the **ultimate DeFi platform** for traders and institutions seeking to capitalize on crypto market inefficiencies. Combining AI-driven arbitrage strategies with instant flash loans, we turn volatility into profit while prioritizing security and user empowerment.  
+## 🌟 **Why AppleFlash?**  
+AppleFlash is the **ultimate DeFi platform** for traders and institutions seeking to capitalize on crypto market inefficiencies. Combining AI-driven arbitrage strategies with instant flash loans, we turn volatility into profit while prioritizing security and user empowerment.  
 
 ### **Key Features**  
 ⚡ **AI Arbitrage Bot**  
