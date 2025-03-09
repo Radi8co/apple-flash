@@ -26,11 +26,6 @@ ApolloFlash is the **ultimate DeFi platform** for traders and institutions seeki
 🔒 **Fortified Security**  
 - Audited smart contracts (CertiK, Halborn).  
 - 95% funds in multi-sig cold storage.  
-
-🎯 **$VVV Token Ecosystem**  
-- Stake to unlock fee discounts, governance rights, and rewards.  
-- [Token Dashboard](https://venice.ai/token) | [Contract](https://basescan.org/token/0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf)  
-
 ---
 
 ## 🛠 **Getting Started**  
