@@ -145,8 +145,3 @@ A: Loans are atomic – repaid automatically in the same transaction.
 *Disclaimer: AppleFlash is a decentralized protocol. Users assume all risks associated with crypto trading.*  
 
 ``` 
-
-Let me know if you’d like to refine any section (e.g., add more technical details, team bios, or media assets)!
-// Example: Connect via Wagmi
-import { ConnectButton } from '@apolloflash/web3';
-<ConnectButton></ConnectButton>
